@@ -11,6 +11,7 @@ I am a computational physicist with over 7 years of experience in machine learni
 In addition to my research, I provide technical consultation to startups and established companies, offering tailored solutions in AI, bias mitigation, and predictive modeling. I work closely with teams to design and implement effective, ethical AI systems that drive impactful, data-driven decision-making.
 
 I am also actively exploring the latest advancements in prompt engineering, LLM integration, and retrieval-augmented generation (RAG) using open-source tools like Hugging Face to enhance the capabilities of large language models and other AI systems.
+
 ---
 
 ## 🚀 Featured Projects
