@@ -1,11 +1,16 @@
-# 👋 Mohammad Hassan Khatami
+# Mohammad Hassan Khatami
 
 <p align="center">
   <img src="https://github.com/Mohammad-Khatami/photo/raw/main/photo_2025-04-15_11-19-18.jpg" alt="Mohammad Hassan Khatami" width="200"/>
 </p>
 
-Welcome! I'm a multidisciplinary data scientist with a PhD in Computational Physics and over 7 years of experience in developing machine learning models, performing large-scale data analysis, and solving high-impact problems in finance, biotech, and quantum computing. I combine deep technical expertise with a passion for fairness in AI, research-driven solutions, and emerging technologies like LLMs and quantum ML.
+👋Welcome! 
 
+I am a computational physicist with over 7 years of experience in machine learning, data analysis, and computational modeling. I have a strong background in coding and developing AI/ML pipelines, leveraging technologies like Python, C++, SQL, and AWS SageMaker to build robust, scalable models. My expertise includes deploying machine learning models across various platforms and industries, solving real-world problems in finance, biotech, and data engineering.
+
+In addition to my research, I provide technical consultation to startups and established companies, offering tailored solutions in AI, bias mitigation, and predictive modeling. I work closely with teams to design and implement effective, ethical AI systems that drive impactful, data-driven decision-making.
+
+I am also actively exploring the latest advancements in prompt engineering, LLM integration, and retrieval-augmented generation (RAG) using open-source tools like Hugging Face to enhance the capabilities of large language models and other AI systems.
 ---
 
 ## 🚀 Featured Projects
