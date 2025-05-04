@@ -1,7 +1,7 @@
-# Mohammad Hassan Khatami
+# Mohammad Khatami
 
 <p align="center">
-  <img src="https://github.com/Mohammad-Khatami/photo/raw/main/photo_2025-04-15_11-19-18.jpg" alt="Mohammad Hassan Khatami" width="200"/>
+  <img src="https://github.com/Mohammad-Khatami/photo/raw/main/photo_2025-04-15_11-19-18.jpg" alt="Mohammad Khatami" width="200"/>
 </p>
 
 👋Welcome! 
