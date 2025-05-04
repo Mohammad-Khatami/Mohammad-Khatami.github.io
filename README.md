@@ -6,35 +6,45 @@
 
 👋Welcome! 
 
+<p align="justify">
 I am a computational physicist with over 7 years of experience in machine learning, data analysis, and computational modeling. I have a strong background in coding and developing AI/ML pipelines, leveraging technologies like Python, C++, SQL, and AWS SageMaker to build robust, scalable models. My expertise includes deploying machine learning models across various platforms and industries, solving real-world problems in finance, biotech, and data engineering.
-
+</p>
+<p align="justify">
 In addition to my research, I provide technical consultation to startups and established companies, offering tailored solutions in AI, bias mitigation, and predictive modeling. I work closely with teams to design and implement effective, ethical AI systems that drive impactful, data-driven decision-making.
-
+</p>
+<p align="justify">
 I am also actively exploring the latest advancements in prompt engineering, LLM integration, and retrieval-augmented generation (RAG) using open-source tools like Hugging Face to enhance the capabilities of large language models and other AI systems.
+</p>p
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 Bias Mitigation in Finance  
+<p align="justify">
 🔗 [GitHub Repo](https://github.com/Mohammad-Khatami/GANs_muliple_SF_fairness)  
 Collaborated with TD Bank to build adversarial models and Variational Autoencoders (VAEs) that reduced bias in financial datasets while maintaining predictive accuracy. Applied fairness metrics and explainability tools to support responsible AI deployment.
+</p>
 
 **Tech:** PyTorch, VAE, Adversarial ML, Fairness Metrics, Financial Data, Responsible AI
 
 ---
 
-### 🔐 Credit Card Fraud Detection  
+### 🔐 Credit Card Fraud Detection
+<p align="justify">
 🔗 [GitHub Repo](https://github.com/Mohammad-Khatami/fraud-detection-project)  
 Built a full ML pipeline for fraud detection using Random Forest and XGBoost. Included exploratory data analysis, model tuning, cross-validation, and evaluation metrics optimized for imbalanced datasets.
+</p>
 
 **Tech:** Python, Scikit-learn, XGBoost, Pandas, Imbalanced Data Handling
 
 ---
 
 ### 🗃️ MySQL Practice Projects  
+<p align="justify">
 🔗 [GitHub Repo](https://github.com/Mohammad-Khatami/MySQL-tutorial)  
 Designed and queried relational databases to master SQL concepts including joins, aggregates, and subqueries. Ideal for showcasing strong fundamentals in data engineering and manipulation.
+</p>
 
 **Tech:** MySQL, ER Modeling, SQL Queries
 
@@ -42,21 +52,31 @@ Designed and queried relational databases to master SQL concepts including joins
 
 ## 🧪 Research Highlights
 
-- **Bias Mitigation in Financial AI**  
-  Collaborated with TD Bank to develop adversarial ML models and variational autoencoders (VAEs) that reduced dataset bias by over 10% while preserving model accuracy. Integrated fairness metrics into model evaluation pipelines.  
+- **Bias Mitigation in Financial AI**
+<p align="justify">
+Collaborated with TD Bank to develop adversarial ML models and variational autoencoders (VAEs) that reduced dataset bias by over 10% while preserving model accuracy. Integrated fairness metrics into model evaluation pipelines.  
   🔗 [GitHub Project](https://github.com/Mohammad-Khatami/GANs_muliple_SF_fairness) | 📝 Accepted at [ICLR 2025 Workshop on Financial AI]
+</p>
 
-- **Explainable and Transparent AI in Finance**  
-  Implemented explainability tools to support transparent decision-making for credit and risk models. Delivered insights to both technical and business stakeholders.
+- **Explainable and Transparent AI in Finance**
+<p align="justify">
+Implemented explainability tools to support transparent decision-making for credit and risk models. Delivered insights to both technical and business stakeholders.
+</p>
 
 - **Responsible AI & Fairness-Aware Modeling**  
-  Passionate about ethical AI, I actively research fairness in ML and collaborate with industry partners to design compliant, bias-aware systems.
+<p align="justify">
+Passionate about ethical AI, I actively research fairness in ML and collaborate with industry partners to design compliant, bias-aware systems.
+</p>
 
 - **Quantum Machine Learning for Protein Design**  
+<p align="justify">
   Designed quantum search circuits with Grover’s algorithm to accelerate protein structure discovery in partnership with CMC Microsystems.
+</p>
 
-- **Time-Series & Anomaly Detection in Biophysics and Finance**  
+- **Time-Series & Anomaly Detection in Biophysics and Finance**
+<p align="justify">
   Applied statistical modeling and anomaly detection to both biomedical and financial time-series data, informing predictive analytics in trading and diagnostics.
+</p>
 
 ---
 
